@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Helix Test Repo
+This is a simple test repo for AEM.
 
 ## Environments
 - Preview: https://main--test-repo--trieloff.hlx.page/
