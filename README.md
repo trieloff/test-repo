@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Helix Test Repo
+This is a simple test repo for AEM.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--test-repo--trieloff.hlx.page/
+- Live: https://main--test-repo--trieloff.hlx.live/
 
 ## Installation
 
